@@ -1,3 +1,4 @@
+This is a fork that was made to compile, go to the original repo, fork it, and go to actions to build it yourself
 <p align="center">
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
